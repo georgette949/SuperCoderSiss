@@ -5,10 +5,10 @@
 
 body {
     background-image: url(../assets/background.jpg)
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
 }
 
 .container {
