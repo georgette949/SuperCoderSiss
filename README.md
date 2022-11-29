@@ -7,7 +7,7 @@
 # Code Style
 
 # Logo
-![This is an image] 
+![This is an image] https://github.com/georgette949/SuperCoderSiss/blob/a8eaf777aec01c7d1e5c193a9b49cb29b00e1daa/assets/super%20coders.png
 # Constributors
 **Georgette Velasco**: Scrum Master and Developer
 
