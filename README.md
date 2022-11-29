@@ -7,7 +7,7 @@
 # Code Style
 
 # Logo
-![This is an image] (https://raw.githubusercontent.com/Natalia-irlo/assets/start-removebg-preview.png) (https://github.com/georgette949/SuperCoderSiss/assets/backgroung.jpg)
+![This is an image] 
 # Constributors
 **Georgette Velasco**: Scrum Master and Developer
 
