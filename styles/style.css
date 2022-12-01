@@ -4,14 +4,13 @@
 }
 
 body {
-    background-image: url(../assets/background.jpg)
-    height:100vh;
+    background-image: url(../assets/background.jpg);
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
 }
 
-.container {
+container {
     align-items: center;
     height: 100%;
     width: 100%;
@@ -34,22 +33,26 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
+}
+.pag-1{
+display: flex;
+justify-content: center;
 }
 
 .imagen3 {
+    width: 200px;
+    height: 200px;
     display: flex;
     justify-content: center;
     align-content: center;
     margin-top: 100px;
-    transition: .5s;
 }
 
-.imagen2:hover {
+imagen2:hover {
     transform: scale(02);
 }
 
-.imagen2 {
+imagen2 {
     transition: all 0.5s linear;
 }
 
